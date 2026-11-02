@@ -34,7 +34,7 @@ with an even mix of rust-libp2p and go-libp2p nodes.
 
 - [Shadow](https://shadow.github.io/) for shadow experiments.
 - [uv](https://docs.astral.sh/uv/) for python dependencies.
-- Implementation specific requirements for building the implementations (Rust, etc...)
+- Go 1.26, Rust 1.98.1, Nim 2.2.10, and Nimble 0.24.1 to build the peers.
 
 ## Running a simulation
 
